@@ -39,6 +39,8 @@ End-to-end business intelligence project analysing six years of Spotify financia
 
 ## Presentations
 
+
+
 [▶ Watch the Video Presentation - Dashboard 1](https://drive.google.com/file/d/1jQ_qoL4QYMrmxdf8HpxC3fkImGsn-LTg/view?usp=drive_link)
 
 [▶ Watch the Video Presentation - Dashboard 2](https://drive.google.com/file/d/1IHKmkZWPr1TQkhHZwx8xV1pev8Pj9LVQ/view?usp=drive_link)
