@@ -36,3 +36,5 @@ End-to-end business intelligence project analysing six years of Spotify financia
 - Data storytelling and business writing
 - Stakeholder analysis and KPI mapping
 - Descriptive, diagnostic, predictive and prescriptive analysis
+
+[▶ Watch the Video Presentation - Dashboard 1](https://drive.google.com/file/d/1jQ_qoL4QYMrmxdf8HpxC3fkImGsn-LTg/view?usp=drive_link)
